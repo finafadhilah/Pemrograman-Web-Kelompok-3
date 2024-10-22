@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeniusBuddies</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>GeniusBuddies</h1>
+        <p class="call-to-action">Mari belajar bersama! Temukan berbagai materi yang menarik dan bermanfaat untuk persiapan UTBK Anda.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#beranda">Beranda</a></li>
+            <li><a href="#tentang-kami">Tentang Kami</a></li>
+        </ul>
+    </nav>
+            
+    <nav>
+        <ul>
+            <li><a href="#penalaran-umum">Penalaran Umum (PU)</a></li>
+            <li><a href="#pengetahuan-umum">Pengetahuan & Pemahaman Umum (PPU)</a></li>
+            <li><a href="#bacaan-menulis">Pemahaman Bacaan dan Menulis (PBM)</a></li>
+            <li><a href="#pengetahuan-kuantitatif">Pengetahuan Kuantitatif (PK)</a></li>
+            <li><a href="#literasi-indonesia">Literasi Bahasa Indonesia (LBI)</a></li>
+            <li><a href="#literasi-inggris">Literasi Bahasa Inggris (LBE)</a></li>
+            <li><a href="#penalaran-matematika">Penalaran Matematika (PM)</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+
+        <section id="pengetahuan-pemahaman-umum">
+            <h2>Pengetahuan & Pemahaman Umum</h2>
+            <h3>Kalimat yang Tidak Logis</h3>
+            <p>Video dan materi tentang Kalimat yang Tidak Logis.</p>
+            <h3>Asosiasi Makna</h3>
+            <p>Video dan materi tentang Asosiasi Makna.</p>
+            <h3>Makna Bertingkat</h3>
+            <p>Video dan materi tentang Makna Bertingkat.</p>  
+            <h3>Sinonim</h3>
+            <p>Video dan materi tentang Sinonim.</p>
+            <h3>Hubungan Kalimat</h3>
+            <p>Video dan materi tentang Hubungan Kalimat.</p>
+            <h3>Perumpamaan</h3>
+            <p3>Video dan materi tentang Perumpamaan.</p3>
+            <h3>Menyusun Paragraf</h3>
+            <p3>Video dan materi tentang Menyusun Paragraf.</p3>
+            <h3>Makna Imbuhan yang Sama</h3>
+            <p3>Video dan materi tentang Makna Imbuhan yang Sama.</p3>
+            <h3>Frasa yang Sejajar</h3>
+            <p3>Video dan materi tentang Frasa yang Sejajar.</p3>
+            <h3>Kelompok Kata Berpasangan Tetap</h3>
+            <p3>Video dan materi tentang Kelompok Kata Berpasangan Tetap.</p3>
+            <h3>Melengkapi Kalimat Rumpang</h3>
+            <p3>Video dan materi tentang Melengkapi Kalimat Rumpang.</p3>
+            <h3>Kata Konotatif dan Denotatif</h3>
+            <p3>Video dan materi tentang Kata Konotatif dan Denotatif.</p3>
+            <h3>Bahasa Panda</h3>
+            <p3>Video dan materi tentang Bahasa Panda.</p3>
+        </section>
+
+        <div class="divider"></div>
+
+        <section id="penalaran-umum">
+            <h2>Penalaran Umum</h2>
+            <h3>Memperlemah/memperkuat argumen</h3>
+            <p>Video dan materi tentang Memperlemah/memperkuat argumen.</p>
+            <h3>Pernyataan benar/salah</h3>
+            <p>Video dan materi tentang Pernyataan benar/salah.</p>
+            <h3>Logika matematika</h3>
+            <p>Video dan materi tentang Logika matematika.</p>
+            <h3>Penalaran analitik</h3>
+            <p>Video dan materi tentang Penalaran analitik.</p>
+            <h3>Silogisme</h3>
+            <p>Video dan materi tentang Silogisme.</p>
+            <h3>Statistika sederhana</h3>
+            <p>Video dan materi tentang Statistika sederhana.</p>
+            <h3>Deret dan barisan sederhana</h3>
+            <p>Video dan materi tentang Deret dan barisan sederhana.</p>
+            <h3>Operasi bilangan sederhana</h3>
+            <p>Video dan materi tentang Operasi bilangan sederhana.</p>
+        </section>
+
+        <div class="divider"></div>
+
+        <section id="pengetahuan-kuantitatif">
+            <h2>Pengetahuan Kuantitatif</h2>
+            <h3>Aljabar</h3>
+            <p>Video dan materi tentang Aljabar.</p>
+            <h3>Aritmatika dan operasi hitung</h3>
+            <p>Video dan materi tentang Aritmatika dan operasi hitung.</p>
+            <h3>FPB dan KPK</h3>
+            <p>Video dan materi tentang FPB dan KPK.</p>
+            <h3>Persamaan linier 3 variabel (SPLTV)</h3>
+            <p>Video dan materi tentang Persamaan linier 3 variabel (SPLTV).</p>
+            <h3>Kaidah Pencacahan</h3>
+            <p>Video dan materi tentang Kaidah Pencacahan.</p>
+            <h3>Persamaan kuadrat</h3>
+            <p>Video dan materi tentang Persamaan kuadrat.</p>
+            <h3>Fungsi kuadrat</h3>
+            <p>Video dan materi tentang Fungsi kuadrat.</p>
+            <h3>Fungsi dan invers</h3>
+            <p>Video dan materi tentang Fungsi dan invers.</p>
+            <h3>Komposisi fungsi</h3>
+            <p>Video dan materi tentang Komposisi fungsi.</p>
+            <h3>Persamaan garis lurus</h3>
+            <p>Video dan materi tentang Persamaan garis lurus.</p>
+            <h3>Bangun datar dan ruang</h3>
+            <p>Video dan materi tentang Bangun datar dan ruang.</p>
+            <h3>Statistika</h3>
+            <p>Video dan materi tentang Statistika.</p>
+        </section>
+
+        <div class="divider"></div>
+
+        <section id="bacaan-menulis">
+            <h2>Pemahaman Bacaan dan Menulis</h2>
+            <h3>Menyempurnakan Kalimat</h3>
+            <p>Video dan materi tentang Menyempurnakan Kalimat.</p>
+            <h3>Menghilangkan Kata</h3>
+            <p>Video dan materi tentang Menghilangkan Kata.</p>
+            <h3>Melengkapi Kalimat</h3>
+            <p>Video dan materi tentang Melengkapi Kalimat.</p>
+            <h3>Kata Baku</h3>
+            <p>Video dan materi tentang Kata Baku.</p>
+            <h3>Kata Hubung/Konjungsi</h3>
+            <p>Video dan materi tentang Kata Hubung/Konjungsi.</p>
+            <h3>Penulisan Kata</h3>
+            <p>Video dan materi tentang Penulisan Kata.</p>
+            <h3>Sinonim</h3>
+            <p>Video dan materi tentang Sinonim.</p>
+            <h3>Kalimat Inti</h3>
+            <p>Video dan materi tentang Kalimat Inti.</p>
+            <h3>Penggabungan Kalimat</h3>
+            <p>Video dan materi tentang Penggabungan Kalimat.</p>
+            <h3>Penggunaan Tanda Baca</h3>
+            <p>Video dan materi tentang Penggunaan Tanda Baca.</p>
+        </section>
+
+        <div class="divider"></div>
+
+        <section id="literasi-indonesia">
+            <h2>Literasi Bahasa Indonesia</h2>
+            <h3>Pernyataan benar salah</h3>
+            <h3>Pernyataan yang Mendukung Opini Penulis</h3>
+            <p>Video dan materi tentang Pernyataan yang Mendukung Opini Penulis.</p>
+            <h3>Simpulan</h3>
+            <p>Video dan materi tentang Simpulan.</p>
+            <h3>Makna Kata dan Ungkapan dalam Kalimat</h3>
+            <p>Video dan materi tentang Makna Kata dan Ungkapan dalam Kalimat.</p>
+            <h3>Pernyataan Penjelas</h3>
+            <p>Video dan materi tentang Pernyataan Penjelas.</p>
+            <h3>Tema, Topik, Judul</h3>
+            <p>Video dan materi tentang Tema, Topik, Judul.</p>
+            <h3>Penokohan</h3>
+            <p>Video dan materi tentang Penokohan.</p>
+            <h3>Informasi Berdasarkan Teks (Informasi dan Sastra)</h3>
+            <p>Video dan materi tentang Informasi Berdasarkan Teks (Informasi dan Sastra).</p>
+            <h3>Gagasan Pokok</h3>
+            <p>Video dan materi tentang Gagasan Pokok.</p>
+            <h3>Ilustrasi Bacaan</h3>
+            <p>Video dan materi tentang Ilustrasi Bacaan.</p>
+        </section>
+
+        <div class="divider"></div>
+
+        <section id="literasi-inggris">
+            <h2>Literasi Bahasa Inggris</h2>
+            <h3>Skimming and scanning</h3>
+            <p>Video dan materi tentang Skimming and scanning.</p>
+            <h3>General information</h3>
+            <p>Video dan materi tentang General information.</p>
+            <h3>Specific information</h3>
+            <p>Video dan materi tentang Specific information.</p>
+            <h3>Synonym and referent</h3>
+            <p>Video dan materi tentang Synonym and referent.</p>
+            <h3>Paraphrase</h3>
+            <p>Video dan materi tentang Paraphrase.</p>
+            <h3>Inference</h3>
+            <p>Video dan materi tentang Inference.</p>
+            <h3>Hypothesis and assumption</h3>
+            <p>Video dan materi tentang Hypothesis and assumption.</p>
+            <h3>Tone and attitude</h3>
+            <p>Video dan materi tentang Tone and attitude.</p>
+        </section>
+
+        <div class="divider"></div>
+
+        <section id="penalaran-matematika">
+            <h2>Penalaran Matematika</h2>
+            <h3>Perbandingan Senilai dan Tidak Senilai</h3>
+            <p>Video dan materi tentang Perbandingan Senilai dan Tidak Senilai.</p>
+            <h3>Aritmetika Sosial</h3>
+            <p>Video dan materi tentang Aritmetika Sosial.</p>
+            <h3>Pertidaksamaan Linear (ekspresi interval)</h3>
+            <p>Video dan materi tentang Pertidaksamaan Linear (ekspresi interval).</p>
+            <h3>Phytagoras & Kesebangunan Segitiga</h3>
+            <p>Video dan materi tentang Phytagoras & Kesebangunan Segitiga.</p>
+            <h3>Keliling, Luas, & Volume Bangun</h3>
+            <p>Video dan materi tentang Keliling, Luas, & Volume Bangun.</p>
+            <h3>Fungsi (memodelkan masalah dengan fungsi & mencari nilai fungsi)</h3>
+            <p>Video dan materi tentang Fungsi (memodelkan masalah dengan fungsi & mencari nilai fungsi).</p>
+            <h3>Sistem Persamaan Linear</h3>
+            <p>Video dan materi tentang Sistem Persamaan Linear.</p>
+            <h3>Statistika (mean, modus, median)</h3>
+            <p>Video dan materi tentang Statistika (mean, modus, median).</p>
+            <h3>Turunan Fungsi Aljabar (menentukan nilai minimum atau maksimum suatu fungsi)</h3>
+            <p>Video dan materi tentang Turunan Fungsi Aljabar (menentukan nilai minimum atau maksimum suatu fungsi).</p>
+            <h3>Kaidah Pencacahan & Peluang</h3>
+            <p>Video dan materi tentang Kaidah Pencacahan & Peluang.</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Video Pembelajaran UTBK. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
