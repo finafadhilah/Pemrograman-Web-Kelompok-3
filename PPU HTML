@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pengetahuan & Pemahaman Umum</title>
+    <link rel="stylesheet" href="mapel.css">
+</head>
+<body>
+    <header>
+        <h1>Pengetahuan & Pemahaman Umum</h1>
+    </header>
+    
+    <section id="pengetahuan-pemahaman-umum" class="learning-section">
+        <div class="learning-box">
+            <a href="kalimat tidak logis.html">
+                <h3>Kalimat yang Tidak Logis</h3>
+                <p>Video dan materi tentang Kalimat yang Tidak Logis.</p>
+            </a>
+        </div>
+        <div class="learning-box">
+            <a href="Asosiasi Makna.html">
+                <h3>Asosiasi Makna</h3>
+                <p>Video dan materi tentang Asosiasi Makna.</p>
+            </a>
+        </div>
+        <div class="learning-box">
+            <a href="Makna Bertingkat.html">
+                <h3>Makna Bertingkat</h3>
+                <p>Video dan materi tentang Makna Bertingkat.</p>
+            </a>
+        </div>
+        <div class="learning-box">
+            <a href="Sinonim.html">
+                <h3>Sinonim</h3>
+                <p>Video dan materi tentang Sinonim.</p>
+            </a>
+        </div>
+        <div class="learning-box">
+            <a href="Hubungan Kalimat.html">
+                <h3>Hubungan Kalimat</h3>
+                <p>Video dan materi tentang Hubungan Kalimat.</p>
+            </a>
+        </div>
+    </section>
+    
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 GeniusBuddies. All Rights Reserved.</p>
+        <a href="index.html" class="btn-back-home">Kembali ke Beranda</a>
+    </footer>
+</body>
+</html>
